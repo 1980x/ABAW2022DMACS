@@ -18,7 +18,7 @@ Semi-supervised Multi-task Facial Affect Recognition titled SS-MFAR uses a deep 
 work with task specific classifiers for each of the tasks along with adaptive thresholds for each
 expression class and semi-supervised learning for the incomplete labels.
 
-Link to the paper : http://arxiv.org/abs/2207.09012
+<strong>Link to the paper </strong>: http://arxiv.org/abs/2207.09012
 
 <strong> <em>Link to checkpoints </em></strong>
 
