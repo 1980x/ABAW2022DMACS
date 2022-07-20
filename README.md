@@ -1,8 +1,11 @@
-# ABAW2022DMACS
 
-\textbd{Title}: Semi-supervised Multi-task Facial Affect Recongition
 
-Abstract: Automatic affect recognition has applications in many areas such as education, gaming, software
+# ABAW2022 DMACS SSSIHL
+<strong>This is code for our submission in the expression track of ABAW 2022 competition as a part of ECCV 2022.</strong>
+
+<strong>Title</strong>:  Semi-supervised Multi-task Facial Affect Recongition
+
+<strong>Abstract</strong>:Automatic affect recognition has applications in many areas such as education, gaming, software
 development, automotives, medical care, etc. but it is non trivial task to achieve appreciable perfor-
 mance on in-the-wild data sets. In-the-wild data sets though represent real-world scenarios better
 than synthetic data sets, the former ones suffer from the problem of incomplete labels. Inspired by
