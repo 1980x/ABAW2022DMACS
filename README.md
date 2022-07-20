@@ -1,8 +1,8 @@
 # ABAW2022DMACS
 
-Semi-supervised Multi-task Facial Affect Recongition
+\textbd{Title}: Semi-supervised Multi-task Facial Affect Recongition
 
-Automatic affect recognition has applications in many areas such as education, gaming, software
+Abstract: Automatic affect recognition has applications in many areas such as education, gaming, software
 development, automotives, medical care, etc. but it is non trivial task to achieve appreciable perfor-
 mance on in-the-wild data sets. In-the-wild data sets though represent real-world scenarios better
 than synthetic data sets, the former ones suffer from the problem of incomplete labels. Inspired by
