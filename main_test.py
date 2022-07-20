@@ -3,7 +3,7 @@ Aum Sri Sai Ram
 
 ABAW4 for MTL
 
-main Code to get predictions on test set by loading the checkpoints.
+Code to get predictions on test set by loading the checkpoints.
 
 Authors: Darshan Gera, Badveeti Naveen Siva Kumar, Bobbili Veerendra Raj Kumar, Dr. S. Balasubramanian, SSSIHL
 
