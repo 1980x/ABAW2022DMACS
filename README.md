@@ -19,3 +19,7 @@ work with task specific classifiers for each of the tasks along with adaptive th
 expression class and semi-supervised learning for the incomplete labels.
 
 Link to the paper : http://arxiv.org/abs/2207.09012
+
+<strong> <em>Link to checkpoints </em></strong>
+
+ https://drive.google.com/drive/folders/1YWNP6dFBvLQhZHVcr1wUgKRePv5rIMCJ?usp=sharing
